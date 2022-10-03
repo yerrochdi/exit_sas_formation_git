@@ -1,8 +1,5 @@
 tmp/todo.txt
 tmp/*
-<<<<<<< Updated upstream
-=======
 test/*
 *.txt
->>>>>>> Stashed changes
 *.xml
