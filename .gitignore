@@ -4,3 +4,5 @@ test/*
 *.txt
 *.xml
 *.csv
+*.test
+*.xml
