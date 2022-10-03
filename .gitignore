@@ -1,5 +1,6 @@
 test/*
 *.txt
+*.xlsx
 *.xml
 *.csv
 *.test
